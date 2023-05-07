@@ -2,7 +2,7 @@
 
 ### First and Last Name: Despoina Zantzou 
 ### University Registration Number: dpsd18140
-### GitHub Personal Profile: xxx
+### GitHub Personal Profile: https://github.com/Zantzou
 ### Digital-Storytelling-Individual-Assignment: xxx
 
 # Introduction
